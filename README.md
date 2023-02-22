@@ -3,7 +3,14 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericksulino_moura/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksulino-moura-74b5bb174/)
 
-![Ericksulino GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksulino&show_icons=true&theme=transparent)
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Ericksulino&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksulino&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>
 
 
 ## Tecnologias que eu utilizo ou já utilizei
@@ -28,4 +35,6 @@
 
 
 Graduando em Sistemas de Informação UFPI 
+
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
